@@ -6,7 +6,11 @@
     <option name="FONT_BOLD_SUB_FAMILY" value="Regular" />
   </component>
   <component name="EditorSettings">
-    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="SCSS" value="true" />
+      </map>
+    </option>
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
