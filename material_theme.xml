@@ -1,11 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactMenus" value="false" />
-    <option name="compactStatusBar" value="false" />
-    <option name="compactTables" value="false" />
     <option name="premium" value="true" />
     <option name="accentColor" value="30c6ec" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-7d1590e:178c4e18f50:-8000" />
+    <option name="version" value="6.4.1" />
   </component>
 </application>
