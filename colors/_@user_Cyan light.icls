@@ -4,7 +4,7 @@
     <property name="created">2021-06-30T10:49:13</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.1.1.0.0</property>
-    <property name="modified">2021-06-30T11:10:43</property>
+    <property name="modified">2021-06-30T15:01:26</property>
     <property name="originalScheme">Cyan light</property>
   </metaInfo>
   <console-font>
@@ -173,12 +173,19 @@
         <option name="FOREGROUND" value="660e7a" />
       </value>
     </option>
-    <option name="JS.GLOBAL_VARIABLE">
+    <option name="JS.DOC_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="660e7a" />
+        <option name="FOREGROUND" value="c31c89" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JS.DOC_TYPE">
+      <value>
+        <option name="FOREGROUND" value="f10f55" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JSON.KEYWORD">
       <value>
         <option name="FOREGROUND" value="80" />
