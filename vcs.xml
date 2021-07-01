@@ -14,8 +14,13 @@
           <option name="url" value="http://git.dankal.cn" />
           <option name="userName" value="309585201@qq.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.tlc.wdsite.cn/alexMercerzjw/drugbackground.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="E:\TLYL" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
