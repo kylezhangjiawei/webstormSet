@@ -18,6 +18,10 @@
           <option name="url" value="http://git.tlc.wdsite.cn/alexMercerzjw/drugbackground.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.tlc.wdsite.cn/taile-front/tkylzhtj.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\TLYL" />
