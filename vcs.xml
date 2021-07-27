@@ -26,6 +26,10 @@
           <option name="url" value="http://git.tlc.wdsite.cn/alexMercerzjw/centercontrol.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.tlc.wdsite.cn/yuanting/tduck-front.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\TLYL" />
