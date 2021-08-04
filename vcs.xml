@@ -34,9 +34,13 @@
           <option name="url" value="http://git.tlc.wdsite.cn/alexMercerzjw/apps.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dankal.cn/web/web-tudgo-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\TLYL" />
+    <option name="cloneParentDir" value="E:\309585\DK" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
