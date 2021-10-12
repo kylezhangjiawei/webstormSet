@@ -54,9 +54,17 @@
           <option name="url" value="http://git.tlc.wdsite.cn/Forever/diabetic.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.smartone.net.cn/jiawei_zhang/saic-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://code.smartone.net.cn" />
+          <option name="userName" value="jiawei_zhang@data-key.net" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\TLYL" />
+    <option name="cloneParentDir" value="E:\SINOBASE" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
