@@ -66,6 +66,10 @@
           <option name="url" value="https://code.smartone.net.cn/mip/mip-aim-blog.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.smartone.net.cn/mip_front/mip.dataview.front.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\SINOBASE" />
