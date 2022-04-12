@@ -1,0 +1,8 @@
+<application>
+  <component name="JetForcer: Debug Logs Settings">
+    <logEventColorInfos>
+      <logEventColor colorHex="007f00" eventName="USER_DEBUG" />
+      <logEventColor colorHex="ff5370" eventName="FATAL_ERROR" />
+    </logEventColorInfos>
+  </component>
+</application>
