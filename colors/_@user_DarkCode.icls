@@ -1,0 +1,61 @@
+<scheme name="_@user_DarkCode" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2022-04-12T14:49:44</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2022.1.0.0</property>
+    <property name="modified">2022-04-12T14:53:25</property>
+    <property name="originalScheme">DarkCode</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="202426" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1c2022" />
+    <option name="DOCUMENTATION_COLOR" value="1c2022" />
+    <option name="GUTTER_BACKGROUND" value="1c2022" />
+    <option name="INFORMATION_HINT" value="1c2022" />
+    <option name="SELECTION_BACKGROUND" value="412f12" />
+  </colors>
+  <attributes>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="353a40" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="333e3d" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="3a3f3b" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="3e3c3a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="3e3737" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="3e3235" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="3a2021" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="bababa" />
+        <option name="BACKGROUND" value="1c2022" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

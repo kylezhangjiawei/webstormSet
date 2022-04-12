@@ -4,5 +4,7 @@
     <option name="enabledUIIcons" value="false" />
     <option name="isEnabledDirectories" value="false" />
     <option name="isEnabledUIIcons" value="false" />
+    <option name="accentColor" value="63a9f1" />
+    <option name="themedColor" value="000000" />
   </component>
 </application>

@@ -3,7 +3,7 @@
     <property name="created">2021-08-03T09:44:31</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-08-03T09:55:10</property>
+    <property name="modified">2022-04-12T14:53:25</property>
     <property name="originalScheme">Material Theme: Night</property>
   </metaInfo>
   <colors>
@@ -25,6 +25,41 @@
   <attributes>
     <option name="HTML_CODE">
       <value />
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="414558" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="3e4955" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="454a53" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="494752" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="49424f" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="493d4d" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="432935" />
+      </value>
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>

@@ -4,7 +4,7 @@
     <property name="created">2021-06-30T10:49:13</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.1.1.0.0</property>
-    <property name="modified">2021-07-02T16:19:27</property>
+    <property name="modified">2022-04-12T14:53:27</property>
     <property name="originalScheme">Cyan light</property>
   </metaInfo>
   <console-font>
@@ -172,6 +172,41 @@
         <option name="FOREGROUND" value="185b9e" />
         <option name="EFFECT_COLOR" value="185b9e" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="e9ecf4" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="e6f1f1" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="eff2ee" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="f5eeec" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="f5e7e9" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="f5e1e6" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="d0b3b6" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">

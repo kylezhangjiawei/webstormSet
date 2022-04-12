@@ -4,7 +4,7 @@
     <property name="created">2021-06-01T09:41:50</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.1.1.0.0</property>
-    <property name="modified">2021-06-01T09:43:08</property>
+    <property name="modified">2022-04-12T14:53:28</property>
     <property name="originalScheme">Halcyon</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -215,6 +215,41 @@
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="5ccfe6" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="363d4e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="34424b" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="3a424a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="3f3f48" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="3f3a46" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="3f3644" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="3b232d" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">

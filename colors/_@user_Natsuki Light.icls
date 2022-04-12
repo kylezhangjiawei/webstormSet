@@ -4,7 +4,7 @@
     <property name="created">2021-08-03T09:44:31</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-08-03T09:57:10</property>
+    <property name="modified">2022-04-12T14:53:25</property>
     <property name="originalScheme">Natsuki Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -901,6 +901,41 @@
         <option name="FOREGROUND" value="e94686" />
         <option name="EFFECT_COLOR" value="e94686" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="f4e0f0" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="f0e6ec" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="f9e7e9" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="ffe3e7" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="ffdce4" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="ffd6e1" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="d9aab2" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
