@@ -1,11 +1,22 @@
 <scheme name="_@user_Material Theme: Lighter" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2021-08-03T09:44:31</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-08-03T09:54:17</property>
+    <property name="modified">2022-04-12T14:35:34</property>
     <property name="originalScheme">Material Theme: Lighter</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="CARET_ROW_COLOR" value="fafafa" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fafafa" />
