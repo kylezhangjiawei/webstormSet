@@ -11,8 +11,8 @@
       <mapping ext="settings" type="XML" />
       <mapping ext="group" type="XML" />
       <mapping ext="connectedapp" type="XML" />
-      <mapping ext="homepagecomponent" type="XML" />
       <mapping ext="queue" type="XML" />
+      <mapping ext="homepagecomponent" type="XML" />
       <mapping ext="posttemplate" type="XML" />
       <mapping ext="communitytemplatedefinition" type="XML" />
       <mapping ext="flowdefinition" type="XML" />
@@ -23,14 +23,14 @@
       <mapping ext="report" type="XML" />
       <mapping ext="permissionset" type="XML" />
       <mapping ext="role" type="XML" />
+      <mapping ext="site" type="XML" />
       <mapping ext="labels" type="XML" />
       <mapping ext="flexipage" type="XML" />
-      <mapping ext="site" type="XML" />
       <mapping ext="assignmentrules" type="XML" />
       <mapping ext="remotesite" type="XML" />
       <mapping ext="layout" type="XML" />
-      <mapping ext="globalvaluesettranslation" type="XML" />
       <mapping ext="object" type="XML" />
+      <mapping ext="globalvaluesettranslation" type="XML" />
       <mapping ext="design" type="XML" />
       <mapping ext="globalvalueset" type="XML" />
       <mapping ext="datasource" type="XML" />
