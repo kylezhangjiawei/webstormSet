@@ -4,7 +4,7 @@
     <property name="created">2022-04-12T14:49:44</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-04-12T14:53:25</property>
+    <property name="modified">2022-07-01T09:54:25</property>
     <property name="originalScheme">Ram</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -40,28 +40,20 @@
     <option name="DOC_COMMENT_GUIDE" value="e594bf9a" />
     <option name="DOC_COMMENT_LINK" value="e594bf" />
     <option name="ERROR_HINT" value="704745" />
-    <option name="FILESTATUS_ADDED" value="10b15a" />
-    <option name="FILESTATUS_COPIED" value="10b15a" />
-    <option name="FILESTATUS_DELETED" value="6c586f" />
-    <option name="FILESTATUS_HIJACKED" value="f1fa8c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c586f" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="6c586f" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="e88def" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="e88def" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="e88def" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="10b15a" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="6c586f" />
-    <option name="FILESTATUS_MERGED" value="85ffef" />
-    <option name="FILESTATUS_MODIFIED" value="8699ff" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="8699ff" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="8699ff" />
-    <option name="FILESTATUS_OBSOLETE" value="a1e9ff" />
-    <option name="FILESTATUS_SUPPRESSED" value="6c586f" />
-    <option name="FILESTATUS_SWITCHED" value="a1e9ff" />
-    <option name="FILESTATUS_UNKNOWN" value="85ffef" />
-    <option name="FILESTATUS_addedOutside" value="6c586f" />
-    <option name="FILESTATUS_changelistConflict" value="e88def" />
-    <option name="FILESTATUS_modifiedOutside" value="85ffef" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="bbbbbb" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="e88def" />
     <option name="GUTTER_BACKGROUND" value="342c34" />
     <option name="GrepConsole.debug.foreground" value="987fa5" />

@@ -3,7 +3,7 @@
     <property name="created">2022-04-12T14:49:44</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-04-12T14:53:25</property>
+    <property name="modified">2022-07-01T10:13:48</property>
     <property name="originalScheme">Codely</property>
   </metaInfo>
   <colors>
@@ -23,11 +23,21 @@
     <option name="DIAGRAM_NOTE_BORDER" value="32302f" />
     <option name="DIAGRAM_REALIZATION_EDGE" value="fabd2f" />
     <option name="DOCUMENTATION_COLOR" value="141414" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="7a725c" />
-    <option name="FILESTATUS_MODIFIED" value="458588" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="458588" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="458588" />
-    <option name="FILESTATUS_modifiedOutside" value="458588" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="bbbbbb" />
+    <option name="FILESTATUS_MERGED" value="9876aa" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="GUTTER_BACKGROUND" value="202124" />
     <option name="HTML_TAG_TREE_LEVEL0" value="cc241d" />
     <option name="HTML_TAG_TREE_LEVEL1" value="d79921" />

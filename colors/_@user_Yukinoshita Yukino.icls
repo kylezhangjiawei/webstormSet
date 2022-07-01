@@ -4,7 +4,7 @@
     <property name="created">2022-04-12T14:49:44</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-04-12T14:53:27</property>
+    <property name="modified">2022-07-01T09:54:25</property>
     <property name="originalScheme">Yukinoshita Yukino</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -40,28 +40,20 @@
     <option name="DOC_COMMENT_GUIDE" value="2d63829a" />
     <option name="DOC_COMMENT_LINK" value="2d6382" />
     <option name="ERROR_HINT" value="704745" />
-    <option name="FILESTATUS_ADDED" value="10b15a" />
-    <option name="FILESTATUS_COPIED" value="10b15a" />
-    <option name="FILESTATUS_DELETED" value="6f6f6f" />
-    <option name="FILESTATUS_HIJACKED" value="f1fa8c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6f6f6f" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="6f6f6f" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="84d0ff" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="84d0ff" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="84d0ff" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="10b15a" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="6f6f6f" />
-    <option name="FILESTATUS_MERGED" value="86dbfd" />
-    <option name="FILESTATUS_MODIFIED" value="8699ff" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="8699ff" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="8699ff" />
-    <option name="FILESTATUS_OBSOLETE" value="f6e3cc" />
-    <option name="FILESTATUS_SUPPRESSED" value="6f6f6f" />
-    <option name="FILESTATUS_SWITCHED" value="f6e3cc" />
-    <option name="FILESTATUS_UNKNOWN" value="86dbfd" />
-    <option name="FILESTATUS_addedOutside" value="6f6f6f" />
-    <option name="FILESTATUS_changelistConflict" value="84d0ff" />
-    <option name="FILESTATUS_modifiedOutside" value="86dbfd" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="bbbbbb" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="84d0ff" />
     <option name="GUTTER_BACKGROUND" value="1f2126" />
     <option name="GrepConsole.debug.foreground" value="41495a" />
@@ -85,7 +77,7 @@
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="456186" />
     <option name="LOOKUP_COLOR" value="282a2f" />
     <option name="METHOD_SEPARATORS_COLOR" value="2b2d32" />
-    <option name="MODIFIED_LINES_COLOR" value="e25399a" />
+    <option name="MODIFIED_LINES_COLOR" value="25399a" />
     <option name="NOTIFICATION_BACKGROUND" value="2d3b55" />
     <option name="PROMOTION_PANE" value="2d63825a" />
     <option name="QUESTION_HINT" value="2d3b55" />
@@ -130,7 +122,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_4" value="303237" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="2d3b55" />
     <option name="VISUAL_INDENT_GUIDE" value="2b2d32" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="e25399a" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="25399a" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">

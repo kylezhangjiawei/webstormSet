@@ -3,7 +3,7 @@
     <property name="created">2022-04-12T14:49:44</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-04-12T14:53:26</property>
+    <property name="modified">2022-07-01T09:54:25</property>
     <property name="originalScheme">Solarized Dark (4lex4)</property>
   </metaInfo>
   <colors>
@@ -46,23 +46,31 @@
     <option name="DOC_COMMENT_GUIDE" value="14483e" />
     <option name="DOC_COMMENT_LINK" value="4183cc" />
     <option name="ERROR_HINT" value="671c3c" />
-    <option name="FILESTATUS_ADDED" value="49955a" />
-    <option name="FILESTATUS_COPIED" value="49955a" />
-    <option name="FILESTATUS_DELETED" value="586e75" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="4c6e77" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="7d8000" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="c8736c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="c8736c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="c8736c" />
-    <option name="FILESTATUS_MERGED" value="8375ae" />
-    <option name="FILESTATUS_MODIFIED" value="5693ba" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="5693ba" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="5693ba" />
-    <option name="FILESTATUS_RENAMED" value="1e828a" />
-    <option name="FILESTATUS_UNKNOWN" value="c6665c" />
-    <option name="FILESTATUS_addedOutside" value="49955a" />
-    <option name="FILESTATUS_changelistConflict" value="c8736c" />
-    <option name="FILESTATUS_modifiedOutside" value="5693ba" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_COPIED" value="629755" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="848504" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="bbbbbb" />
+    <option name="FILESTATUS_MERGED" value="9876aa" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="629755" />
+    <option name="FILESTATUS_changelistConflict" value="d5756c" />
+    <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="73642" />
     <option name="GUTTER_BACKGROUND" value="73642" />
     <option name="HTML_TAG_TREE_LEVEL0" value="dc322f" />
@@ -115,17 +123,17 @@
     <option name="ScrollBar.Mac.thumbBorderColor" value="273259" />
     <option name="ScrollBar.Mac.thumbColor" value="6b808659" />
     <option name="ScrollBar.Mac.trackColor" value="" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="a384459" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="384459" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="99a6a559" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="6b80861a" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="a384447" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="384447" />
     <option name="ScrollBar.Transparent.thumbColor" value="99a6a547" />
     <option name="ScrollBar.Transparent.trackColor" value="" />
     <option name="ScrollBar.background" value="16414d" />
-    <option name="ScrollBar.hoverThumbBorderColor" value="a384459" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="384459" />
     <option name="ScrollBar.hoverThumbColor" value="99a6a559" />
     <option name="ScrollBar.hoverTrackColor" value="" />
-    <option name="ScrollBar.thumbBorderColor" value="a384447" />
+    <option name="ScrollBar.thumbBorderColor" value="384447" />
     <option name="ScrollBar.thumbColor" value="99a6a547" />
     <option name="ScrollBar.trackColor" value="" />
     <option name="TEARLINE_COLOR" value="3d5963" />
