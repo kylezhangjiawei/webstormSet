@@ -1,5 +1,6 @@
 <application>
   <component name="Plugin-Config">
+    <option name="infoOnClick" value="false" />
     <option name="userId" value="837c798d-c462-4963-80a3-0560baad2f08" />
     <option name="version" value="0.15.1" />
   </component>
