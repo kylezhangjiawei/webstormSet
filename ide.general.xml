@@ -8,7 +8,7 @@
     <entry key="ide.intellij.laf.enable.animation" value="true" />
     <entry key="ide.editor.tab.selection.animation" value="true" />
     <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
-    <entry key="editor.focus.mode.color.light" value="415967" />
-    <entry key="editor.focus.mode.color.dark" value="415967" />
+    <entry key="editor.focus.mode.color.light" value="8c8c8c" />
+    <entry key="editor.focus.mode.color.dark" value="8c8c8c" />
   </component>
 </application>
