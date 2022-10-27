@@ -1,8 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="accentColor" value="63a9f1" />
-    <option name="selectedTheme" value="NATIVE" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="accentColor" value="009688" />
     <option name="userId" value="-7d1590e:178c4e18f50:-8000" />
     <option name="version" value="7.11.0" />
   </component>
